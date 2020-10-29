@@ -44,4 +44,4 @@ With more time, I would like to expand my modeling to more similar categories of
 [Modeling.ipynb](https://github.com/blantj/yelp_nlp/blob/main/Modeling.ipynb) :  Yelp nlp classification modeling
 
 # Sources
-Kaggle: https://www.yelp.com/fusion
+Yelp: https://www.yelp.com/fusion
